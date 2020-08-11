@@ -2,5 +2,13 @@ def message():
     print("Hello github")
     
 message()
+print("Heita")
 
-print("allan")
+def greeting():
+    print("Holla")
+greeting()
+
+def getallen():
+    print("Allen did it")
+
+    
