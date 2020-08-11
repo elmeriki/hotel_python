@@ -3,3 +3,7 @@ def message():
     
 message()
 print("Heita")
+
+def greeting():
+    print("Holla")
+greeting()
