@@ -21,6 +21,12 @@ def Message1():
   def Message1():
     print("Hello 2")
 
+<<<<<<< HEAD
 
     def Message5():
     print("Heita 2")
+=======
+def stu_app():
+    print("Welcome")
+stu_app()
+>>>>>>> 21bdf030438aabaee70fe811ffee71bb8283b593
