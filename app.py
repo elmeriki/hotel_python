@@ -14,7 +14,9 @@ def getallen():
 def getnewfile():
     print("new file created")
 
-def stuApp():
-    print("Welcome!")
-stuApp()
-
+def Message1():
+    print("Hello 3")
+    
+    
+  def Message1():
+    print("Hello 2")
