@@ -20,3 +20,7 @@ def Message1():
     
   def Message1():
     print("Hello 2")
+
+def stu_app():
+    print("Welcome")
+stu_app()
