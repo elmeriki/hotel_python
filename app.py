@@ -13,3 +13,8 @@ def getallen():
 
 def getnewfile():
     print("new file created")
+
+def stuApp():
+    print("Welcome!")
+stuApp()
+
